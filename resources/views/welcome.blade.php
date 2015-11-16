@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">Atty. Baligod for Senator</div>
             </div>
         </div>
     </body>
