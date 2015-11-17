@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Atty. Baligod for Senator</div>
+                <div class="title">Walang sina-santo, walang sini-sino!</div>
             </div>
         </div>
     </body>
