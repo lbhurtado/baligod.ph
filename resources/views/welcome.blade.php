@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Walang sina-santo, walang sini-sino!</div>
+                <div class="title">Stop d' Korap!</div>
             </div>
         </div>
     </body>
